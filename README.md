@@ -9,6 +9,7 @@ A. Brief Description
   
 B. How to Use
 
+Download the "roomba.js" file or pull into a local repository.
 Run "roomba.js" using node in a command line terminal, making sure that it is in the same directory as the "input.txt" file.
 
 C. Additional Thoughts
